@@ -1,7 +1,7 @@
-# AlgorithmePredictionBank
+# AlgorithmPredictionBank
 
-Source des données : http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Data : http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-Problème : 
+Problem:
 
-Les données sont liées à des campagnes de marketing direct (appels téléphoniques) d'une institution bancaire portugaise. Le but de la classification est de prédire si le client souscrira un dépôt à terme (variable y).
+The data are related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The purpose of the classification is to predict whether the customer will subscribe to a term deposit (variable y).
